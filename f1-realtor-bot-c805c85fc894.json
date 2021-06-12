@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "f1-realtor-bot",
+  "private_key_id": "c805c85fc89483b13f9358ab1e8a72c810a55fa9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDERIp5mgPtQF8r\nyF2C6N08ZjNvm+FZoe6nrgm3XW6DQfBV3fEsCdNm8KdP3MXsr81slwar/kkNQvTu\n/qOnT1yj/6k5QiRO3F3ysyrumwHKrbRbNsTtPnETDbkdHUeJRg6aEjgcJyWDy9Ao\nawc6SvaYA3E4ptiJrDyC7NAolQ2cy74HUGrGQC8ic5igO8vRM9ritm5NOF2ABzT8\nMbdk8yLZA07Pd8yEeh7+kgQ8lWmCCxICwpviTWumdug6PL8NhEIW6hLXbT9jITF4\nscG4eI7EbKw1brjiWwo6ieEQNZDmkvVYAFFTCg9W2SKzeyeqLPQQ6p1IhMc/5F6b\nTrA194LZAgMBAAECggEAAMhMgCpQkDdyEtMPuwnkwTkZpmScMPeX11MME5VFjgM1\n1EeEV/glxdBm+fe95A9+f46iGNGTDO5phVFWssYfPjVdWbHGf1OaeYOF9KX7l6Go\nKs+u9vUn1sRL+fqeBXX0cOZF7qgh9gjCIoLsblVqyho0phS3DS2kPbuQwetTVyl0\n+lqDICjczv+Bf4RbJwUmPBUl3emkhYAB9/KhW5OzW6JqS87zCDnk6klWnPEbKdQ2\nYufRnTG+bNA86itKP1/3JtHK9QgVO6iKMzsn8mB30w8mf24I2xnNkoJwUitFIzw+\noBLCaV9x+sJKN96H9LsFiOK4XquQGWdFnlVJon8MKQKBgQDtiqHEiK27n/bYXyy6\nGArzZTBxvNnrHrxkYCwnW7fZn8+1pBK/aElAQ1J2HGz+wzPUJsZhjVknBTgWrlUS\n0xaYb1z/YezY9suFBN/oHLLv8/KKvAIZMk3NxBNuc5GF4diGXc8ofoKFnpxIsgW5\ns36+tlA+Qg+Frl6GyuOPIDEkzQKBgQDThNt8l2d2PGYx01FG65tYRgULaZXNq6PB\nmvHsOEEcwTpKxYdc0e8IyBx+zaKKKiPzHG6AlsRw+IDONURH+yKndlUjupDSXi+Z\nCHTAnPmos/Ihjxzhw/uvi/BTjCCU0s0AMsN6B2mWQf5xYMYoxGExXK+thXxdS08i\n1W7ewni2PQKBgQDS0zXcLsqzObhmNaKG0Av4Fhk2+TwYN8FQ/SJzFC5KklJRjnut\nMivBQ38OoRAD1NBNPNTZhBBaV4F+b9/Fw1/Mjxpk9061CeV7++WWJtKRsVvU0iSy\npDj1pU7xutSvlNEOAHh6Ij5JxYpD4uy98pdNQJZbi1ondakjzTLGtvWnCQKBgGFi\nxCODGhGoEW1TXBKJG8byxhPREzXUltrm2gfmhqQUmyAd/grQZXvnlqcTSojOiiq+\npmnyAJP69mL6x2tUx0nPA7glh9QzpTqSWB7up0vzPcIRwDx6HYFfrtDorX+X5ub2\neGXQz95smBffdJ0EfbNad1AvK2lQ6SiimB9b7nQJAoGBALKhAbdTNWrmScTSwfQe\n4+T8PcFIxCeJ3BCUUPLDO8oJciQBHK76PBIvy9uQ2AopShBSI3LwvW3TodxndZBY\nDx+hhvBGmUT9cwB1XGH35wauvOq48YKVxwrQ/RO40KLK8KpY2e0wYrjqm5+Y4K1s\n49RN0D5ge8HDkfAotYT4GnZB\n-----END PRIVATE KEY-----\n",
+  "client_email": "getting-numbers-from-google-sh@f1-realtor-bot.iam.gserviceaccount.com",
+  "client_id": "112042291877004814217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/getting-numbers-from-google-sh%40f1-realtor-bot.iam.gserviceaccount.com"
+}
